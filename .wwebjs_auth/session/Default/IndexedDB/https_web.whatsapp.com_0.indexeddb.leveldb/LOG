@@ -1,0 +1,13 @@
+2025/08/16-17:30:40.443 34c4 Reusing MANIFEST C:\pybot for whatsapp automation\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/08/16-17:30:40.686 34c4 Recovering log #62
+2025/08/16-17:30:40.787 34c4 Reusing old log C:\pybot for whatsapp automation\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000062.log 
+2025/08/16-17:30:49.090 2070 Level-0 table #67: started
+2025/08/16-17:30:49.207 2070 Level-0 table #67: 166848 bytes OK
+2025/08/16-17:30:49.235 2070 Delete type=0 #62
+2025/08/16-17:30:49.238 2070 Manual compaction at level-0 from '\x00!\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00"\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/08/16-17:30:54.523 2ed8 Compacting 1@1 + 1@2 files
+2025/08/16-17:30:55.150 2ed8 Generated table #68@1: 24191 keys, 891308 bytes
+2025/08/16-17:30:55.150 2ed8 Compacted 1@1 + 1@2 files => 891308 bytes
+2025/08/16-17:30:55.201 2ed8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/08/16-17:30:55.202 2ed8 Delete type=2 #64
+2025/08/16-17:30:55.202 2ed8 Delete type=2 #67
